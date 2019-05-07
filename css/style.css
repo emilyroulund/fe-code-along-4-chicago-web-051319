@@ -117,5 +117,7 @@ background: #ccc;
 }
 /*//////Sections////*/
 section {
-  margin-bottom: 20
+  padding: 20px;
+  margin-bottom: 20px;
 }
+

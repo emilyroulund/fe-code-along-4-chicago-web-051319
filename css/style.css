@@ -75,7 +75,11 @@ img, video, audio {
 }
 
 
-/*////// LAYOUT //////*/
+/*////// LAYOUT/////*/
+
+*{bo
+  
+}
 
 .wrapper {
   width: 960px;

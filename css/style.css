@@ -116,3 +116,6 @@ background: #ccc;
   margin-left: 0%;
 }
 /*//////Sections////*/
+section {
+  margin-bottom: 20
+}
